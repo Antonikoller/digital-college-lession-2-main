@@ -222,3 +222,8 @@ html {
     flex: 1;
   }
 }
+
+.pagina-produto-1 .products-list__item {
+  border: none;
+  
+}
